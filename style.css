@@ -17,8 +17,12 @@ p {
     margin: 8px 40px 8px 40px;
 }
 
+hr {
+    margin: 24px 128px 24px 128px;
+}
+
 blockquote {
-    margin: 12px 48px 8px 48px;
+    margin: 12px 48px 12px 48px;
     font-size: 18px;
 }
 
