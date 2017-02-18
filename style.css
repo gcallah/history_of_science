@@ -26,6 +26,7 @@ blockquote {
 
 ol, ul, dl, li {
     margin: 12px 12px 8px 12px;
+    font-size: 18px;
 }
 
 p {
