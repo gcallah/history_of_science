@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-size: 18px;
+    font-size: 16px;
     color: #333;
     background: #ffe;
 }
@@ -16,17 +16,17 @@ table, th, td {
 
 p {
     margin: 8px 48px 8px 48px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 blockquote {
     margin: 12px 64px 8px 64px;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 ol, ul, dl, li {
     margin: 12px 12px 8px 12px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 p {
