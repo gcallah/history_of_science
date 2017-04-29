@@ -23,12 +23,12 @@ p {
 }
 
 blockquote {
-    margin: .75em 4em .5em 4em;
+    margin: .75em 8em .5em 8em;
     font-size: 0.9em;
 }
 
 ol, ul, dl, li {
-    margin: .75em .75em .5em .75em;
+    margin: .75em 3em .5em 3em;
 }
 
 p {
