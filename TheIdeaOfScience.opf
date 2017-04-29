@@ -2,13 +2,13 @@
 <package unique-identifier="uid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:asd="http://www.idpf.org/asdfaf">
     <metadata>
         <dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
-            <dc:Title>Book title</dc:Title>
+            <dc:Title>The Idea of Science title</dc:Title>
             <dc:Language>en</dc:Language>
-            <dc:Creator>Author name</dc:Creator>
-            <dc:Copyrights>Copyright owner</dc:Copyrights>
-            <dc:Publisher>Publisher</dc:Publisher>
+            <dc:Creator>Gene Callahan</dc:Creator>
+            <dc:Copyrights>Gene Callahan</dc:Copyrights>
+            <dc:Publisher>Gene Callahan</:dc:Publisher>
             <x-metadata>
-                <EmbeddedCover>images/cover.jpg</EmbeddedCover>
+                <EmbeddedCover>graphics/cover.jpg</EmbeddedCover>
             </x-metadata>
         </dc-metadata>
     </metadata>
@@ -26,7 +26,6 @@
         <itemref idref="background"/>
     </spine>
     <guide>
-        <reference type="toc" title="Table of Contents" href="toc.html"/>
-        <reference type="text" title="Book" href="index.html"/>
+        <reference type="toc" title="Table of Contents" href="index.html"/>
     </guide>
 </package>
