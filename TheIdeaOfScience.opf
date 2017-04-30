@@ -7,6 +7,8 @@
             <dc:Creator>Gene Callahan</dc:Creator>
             <dc:Copyrights>Gene Callahan</dc:Copyrights>
             <dc:Publisher>Gene Callahan</:dc:Publisher>
+            <dc:Editor>Alex Woollends</:dc:Editor>
+            <dc:Artist>Rob Dodson</:dc:Artist>
             <x-metadata>
                 <EmbeddedCover>graphics/cover.jpg</EmbeddedCover>
             </x-metadata>
