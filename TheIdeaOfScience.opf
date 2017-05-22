@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<package unique-identifier="uid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:asd="http://www.idpf.org/asdfaf">
+    <metadata>
+        <dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+            <dc:Title>The Idea of Science title</dc:Title>
+            <dc:Language>en</dc:Language>
+            <dc:Creator>Gene Callahan</dc:Creator>
+            <dc:Copyrights>Gene Callahan</dc:Copyrights>
+            <dc:Publisher>Gene Callahan</:dc:Publisher>
+            <dc:Editor>Alex Woollends</:dc:Editor>
+            <dc:Artist>Rob Dodson</:dc:Artist>
+            <x-metadata>
+                <EmbeddedCover>graphics/cover.jpg</EmbeddedCover>
+            </x-metadata>
+        </dc-metadata>
+    </metadata>
+    <manifest>
+		<item id="stylesheet" href="style.css" media-type="text/css"/>
+        <item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+        <item id="content" media-type="application/xhtml+xml" href="index.html"></item>
+
+        <item id="ch1" href="PopHistoryOfScience.html"
+            media-type="application/xhtml+xml"/>
+        <item id="ch2" href="ScienceAbstract.html" media-type="application/xhtml+xml"/>
+        <item id="ch3" href="Atomism.html" media-type="application/xhtml+xml"/>
+        <item id="ch4" href="Heliocentrism.html" media-type="application/xhtml+xml"/>
+        <item id="ch5" href="ReligiousPersecution.html"
+            media-type="application/xhtml+xml"/>
+        <item id="ch6" href="MechanicalPhilosophy.html"
+            media-type="application/xhtml+xml"/>
+        <item id="ch7" href="Evolution.html" media-type="application/xhtml+xml"/>
+        <item id="ch8" href="Neuro-babble.html" media-type="application/xhtml+xml"/>
+        <item id="ch9" href="Galileo.html" media-type="application/xhtml+xml"/>
+        <item id="ch10" href="Kepler.html" media-type="application/xhtml+xml"/>
+        <item id="ch11" href="InventingScience.html" media-type="application/xhtml+xml"/>
+        <item id="ch12" href="Feyerabend.html" media-type="application/xhtml+xml"/>
+        <item id="ch13" href="Bibliography.html" media-type="application/xhtml+xml"/>
+
+        <!-- images -->
+        <item id="my_cover_image" href="graphics/Cover.jpg" media-type="image/jpeg"/>
+        <item id="Galileo" href="graphics/Galileo.jpg" media-type="image/jpeg"/>
+        <item id="Kepler" href="graphics/Kepler.jpg" media-type="image/jpeg"/>
+        <item id="Copernicus" href="graphics/Copernicus.jpg" media-type="image/jpeg"/>
+
+    </manifest>
+
+    <spine toc="ncx">
+        <itemref idref="cover"/>
+        <itemref idref="ch1"/>
+        <itemref idref="ch2"/>
+        <itemref idref="ch3"/>
+        <itemref idref="ch4"/>
+        <itemref idref="ch5"/>
+        <itemref idref="ch6"/>
+        <itemref idref="ch7"/>
+        <itemref idref="ch8"/>
+        <itemref idref="ch8"/>
+        <itemref idref="ch9"/>
+        <itemref idref="ch10"/>
+        <itemref idref="ch11"/>
+        <itemref idref="ch12"/>
+        <itemref idref="ch13"/>
+    </spine>
+
+    <guide>
+        <reference type="toc" title="Table of Contents" href="index.html"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+1) The transition from 'Science Can't tell us What an Electron Is' to 'The Scientific World-View' could be done through a lead in and a title change.   We could led into he next article - 'The 'Scientific World view' by saying, 'Science has no philosophical justification for a world view.  Speaking of which...' and then follow into the next article.
+
+2)  We might instead put the article 'Science does not deal with concrete reality' before we lead into the next article, 'The 'Scientific World View'.  This seems to give it a better flow.
+
+3)  After 'Science Does not Deal with Concrete Reality', we could then say, 'But if science does not deal with concrete reality, then what can science predict?' Or something like that.
+
+4)  An emphasis on 'abstracted' in the final sentence of 'Science Does not Deal with Concrete Reality'.  For example: 'Scientific prediction is not about the real world as a whole: it is about a world of pure quantity abstracted from the real world.'
+
+5)  'In History, the Queen of the Sciences', we could condense the last two sentences to 'The experimental sciences are dependent on history, not on experimental tests for 'what counts as an experiment.'
+
+6)  Before 'Science often ignores counter-evidence', we could eliminate the title altogether, and say at the end of 'History, the Queen of the Sciences' something such as 'another confusion is 'what counts as evidence against an experiment?'  But science often ignores counter-evidence to it's claims...' and then go on.  Just another suggestion to make the flow better.
+
+
+
+Regarding the section 'Atomism':
+
+1)  This section feels like it should be somehow put near 'Science is an Abstract World'.  It captures, by example, a way that a science (mathematics) does not solve problems in reality via the example of Zeno's Paradox.  Just a thought.
+
+2)  Typo in 'There concern was with the nature of space' in 'Zeno was not worried about specifications or formal systems'.
+
+3)  I'm trying to think of a way to link these all.  My brain hurts trying to get a good flow going.  I'm going to look at it later.  I'm sure that you already have ideas. 
+
+
+Regarding 'Judging History' and 'The Near Side of the Telescope':
+
+A typo in the sentence 'Returning to the main streams of the book, Wootton's great achievement in historical scholarship is a serious challenge to the "gradualist" thesis of scientific development, one I had myself had accepted as settled facct.'  (Judging History).
+
+Gene, I think that Judging History might be a part of a chapter (section?)  about abstraction.  See, I think that the ebook might go well with chapters that have themes - the underlying theme and understanding of which might be the mode of experience that is science, and how ignoratio elenchi persists in contemporary culture on the history of science.
+
+But just bad metaphysics might not be something that affects the history of science (and the philosophy of science); it could also be just bad history, period (like the myth of religious persecution of scientists). 
+
+So, we could have chapters or sections like:
+
+1.  Science is an abstraction (with a book review to illustrate the mistake of taking science to be the one and true way to grasp all of reality, the review 'judging history').
+
+2.  Religion, Science, and False History - this could be devoted to a unifying theme of bad history of science (like the pop history of science that you comment on) and how religion has been made to be seen as an enemy to science.  At the end of this section, you could place 'The Near Side of the Telescope' book review. 
