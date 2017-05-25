@@ -48,12 +48,14 @@ h1 {
     font-size: 2em;
     background-color: #339;
     color: #cfc;
+    page-break-before: always;
 }
 
 h2 {
     font-size: 1.8em;
     margin: 1.5em 1.25em 1.25em 1.25em;
     color: #075;
+    page-break-before: always;
 }
 
 h2.subhead {

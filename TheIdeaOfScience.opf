@@ -38,10 +38,25 @@
 
         <!-- images -->
         <item id="my_cover_image" href="graphics/Cover.jpg" media-type="image/jpeg"/>
-        <item id="Galileo" href="graphics/Galileo.jpg" media-type="image/jpeg"/>
-        <item id="Kepler" href="graphics/Kepler.jpg" media-type="image/jpeg"/>
+        <item id="AltamiraBison" href="graphics/AltamiraBison.jpg"
+            media-type="image/jpeg"/>
+        <item id="AntNebula" href="graphics/AntNebula.jpg" media-type="image/jpeg"/>
+        <item id="Brain" href="graphics/Brain.png" media-type="image/jpeg"/>
+        <item id="Carina" href="graphics/Carina.jpg" media-type="image/jpeg"/>
+        <item id="Condensate" href="graphics/Condensate.png" media-type="image/jpeg"/>
+        <item id="CopernicanHeliocentrism"
+            href="graphics/CopernicanHeliocentrism.svg.png" media-type="image/png"/>
         <item id="Copernicus" href="graphics/Copernicus.jpg" media-type="image/jpeg"/>
-
+        <item id="Cosmos" href="graphics/Cosmos.jpg" media-type="image/jpeg"/>
+        <item id="Finches" href="graphics/Finches.jpg" media-type="image/jpeg"/>
+        <item id="Galileo" href="graphics/Galileo.jpg" media-type="image/jpeg"/>
+        <item id="Heliocentric" href="graphics/Heliocentric.jpg"
+            media-type="image/jpeg"/>
+        <item id="Heretics" href="graphics/Heretics.jpg" media-type="image/jpeg"/>
+        <item id="Kepler" href="graphics/Kepler.jpg" media-type="image/jpeg"/>
+        <item id="Lorenz" href="graphics/Lorenz.png" media-type="image/png"/>
+        <item id="descartesscrew" href="graphics/descartesscrew.jpg"
+            media-type="image/jpeg"/>
     </manifest>
 
     <spine toc="ncx">
