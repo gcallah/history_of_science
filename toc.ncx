@@ -1,88 +1,139 @@
- <?xml version="1.0"?>
- <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
-  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
-
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">  
     <head>
-    </head>
-
+    </head>  
+        
         <docTitle>
+            <text>
             The Idea of Science
-        </docTitle1>
+            </text>
+        </docTitle>
 
-<navMap>
-<navPoint id="toc" playOrder="1">
-  <navLabel>
-  <text>
-       Table of Contents
-  </text>
-  </navLabel>
-  <content src="index.html#toc" />
-</navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            Pop History of Science
+    <navMap>
+        <navPoint id="toc" playOrder="1">
+          <navLabel>
+          <text>
+               Table of Contents
+          </text>
+          </navLabel>
+          <content src="index.html#toc" />
+        </navPoint>
+    
+        <navPoint id="ch1" playOrder="2">
+            <navLabel>
+            <text>
+                Pop History of Science
+            </text>
+            </navLabel>
             <content src="PopHistoryOfScience.html#ch1" />
         </navPoint>
-       
-        <navPoint id="chX" playOrder="X">
-            Science Is an Abstract World
+           
+        <navPoint id="ch2" playOrder="3">
+            <navLabel>
+            <text>
+                Science Is an Abstract World
+            </text>
+            </navLabel>
             <content src="ScienceAbstract.html#ch2" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            Atomism
+    
+        <navPoint id="ch3" playOrder="4">
+            <navLabel>
+            <text>
+                Atomism
+            </text>
+            </navLabel>
             <content src="Atomism.html#ch3" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
+    
+        <navPoint id="ch4" playOrder="5">
+            <navLabel>
+            <text>
                 Heliocentrism
+            </text>
+            </navLabel>
             <content src="Heliocentrism.html#ch4" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            Religious Persecution
+    
+        <navPoint id="ch5" playOrder="6">
+            <navLabel>
+            <text>
+                Religious Persecution
+            </text>
+            </navLabel>
             <content src="ReligiousPersecution.html#ch5" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            The Mechanical Philosophy
+    
+        <navPoint id="ch6" playOrder="7">
+            <navLabel>
+            <text>
+                The Mechanical Philosophy
+            </text>
+            </navLabel>
             <content src="MechanicalPhilosophy.html#ch6" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            Darwin and Evolution
+    
+        <navPoint id="ch7" playOrder="8">
+            <navLabel>
+            <text>
+                Darwin and Evolution
+            </text>
+            </navLabel>
             <content src="Evolution.html#ch7" />
         </navPoint>
         
-        <navPoint id="chX" playOrder="X">
-            Neuro-Babble
+        <navPoint id="ch8" playOrder="9">
+            <navLabel>
+            <text>
+                Neuro-Babble
+            </text>
+            </navLabel>
             <content src="Neuro-babble.html#ch8" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            Galileo
+    
+        <navPoint id="ch9" playOrder="10">
+            <navLabel>
+            <text>
+                Galileo
+            </text>
+            </navLabel>
             <content src="Galileo.html#ch9" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            Kepler
+    
+        <navPoint id="ch10" playOrder="11">
+            <navLabel>
+            <text>
+                Kepler
+            </text>
+            </navLabel>
             <content src="Kepler.html#ch10" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            The Scientific Revolution
+    
+        <navPoint id="ch11" playOrder="12">
+            <navLabel>
+            <text>
+                The Scientific Revolution
+            </text>
+            </navLabel>
             <content src="InventingScience.html#ch11" />
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
+    
+        <navPoint id="ch12" playOrder="13">
+            <navLabel>
+            <text>
                 Philosophy of Nature
+            </text>
+            </navLabel>
             <content src="Feyerabend.html#ch12" />
             </a>
         </navPoint>
-
-        <navPoint id="chX" playOrder="X">
-            Bibliography
+    
+        <navPoint id="ch13" playOrder="14">
+            <navLabel>
+            <text>
+                Bibliography
+            </text>
+            </navLabel>
             <content src="Bibliography.html#ch13" />
         </navPoint>
 
